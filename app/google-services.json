@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441956189889",
+    "project_id": "jmmpokemon-41e33",
+    "storage_bucket": "jmmpokemon-41e33.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441956189889:android:36ffb3ed12d254b6fab640",
+        "android_client_info": {
+          "package_name": "dam.pmdm.munoz_moreno_juanmanuel_pmdm03"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441956189889-dn44785ipnd4f253kmd8fnvqn160fcel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBetWU1Hs6Q1GFpjbF3wSa_HF5SCmn3fsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441956189889-dn44785ipnd4f253kmd8fnvqn160fcel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

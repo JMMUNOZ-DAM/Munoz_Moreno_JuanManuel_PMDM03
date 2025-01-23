@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Munoz_Moreno_JuanManuel_PMDM03" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- Configuración del Splash Screen -->
+        <item name="android:windowSplashScreenBackground">@color/red</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/poketrainer</item>
+        <item name="android:windowSplashScreenAnimationDuration">2000</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/white</item>
+
+    </style>
+
+    <style name="Theme.Munoz_Moreno_JuanManuel_PMDM03" parent="Base.Theme.Munoz_Moreno_JuanManuel_PMDM03" />
+</resources>
